@@ -1,1 +1,2 @@
-# Hra
+Dusil Filip
+Novotný Radek
